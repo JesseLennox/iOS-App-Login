@@ -1,0 +1,6 @@
+framework module Pods_PappaDemo {
+  umbrella header "Pods-PappaDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

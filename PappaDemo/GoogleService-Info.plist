@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>987203408626-evris8tk5e9da3imiicp6n4kh6ecs3qe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.987203408626-evris8tk5e9da3imiicp6n4kh6ecs3qe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBG6Sk0EQk5UZM1geFZCDiWsFNUUV2Oz2o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>987203408626</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Jesse-Hanna.PappaDemo</string>
+	<key>PROJECT_ID</key>
+	<string>pappademo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pappademo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:987203408626:ios:9bfefdb6905558f0</string>
+	<key>DATABASE_URL</key>
+	<string>https://pappademo.firebaseio.com</string>
+</dict>
+</plist>
